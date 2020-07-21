@@ -1,0 +1,11 @@
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\bin\Debug\netcoreapp2.1\Lletres.deps.json
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\bin\Debug\netcoreapp2.1\Lletres.runtimeconfig.json
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\bin\Debug\netcoreapp2.1\Lletres.runtimeconfig.dev.json
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\bin\Debug\netcoreapp2.1\Lletres.dll
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\bin\Debug\netcoreapp2.1\Lletres.pdb
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.csprojAssemblyReference.cache
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.AssemblyInfo.cs
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.dll
+C:\Users\Miguel Angel\source\repos\Lletres\Lletres\obj\Debug\netcoreapp2.1\Lletres.pdb
