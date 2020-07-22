@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Ex. 1 Lletres </title>
+
+<script>
+			//Fase1
+			var nom="Miguel Ángel";
+			var cognom1="Barceló";
+			var cognom2="Hernández";
+			
+			var dia=29;
+			var mes=1;
+			var any=1972;
+			
+			document.write(cognom1+" "+cognom2+", "+nom+"<br>");
+			document.write(dia+"/"+mes+"/"+any+"<br>");
+			
+			//FASE2
+			const anyInici= 1948;
+			var traspas = (any - anyInici)/4;
+			
+            document.write("Entre el 1948 y "+any+" hay "+traspas+" años bisiestos"+"<br>");
+
+			var resto;
+			var i;
+            for (i=anyInici; i<= any; i++)
+            {
+				resto = i%4;
+                if (resto==0)
+                    document.write(i + " es un año bisiesto"+"<br>");
+            }
+</script>
+
+</head>
+
+<body>
+</body>
+</html>
